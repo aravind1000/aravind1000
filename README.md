@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aravind</h1>
-<h3 align="center">🚀 Passionate and Ambitious Computer Science Engineering Student | Exploring Cutting-Edge Technologies</h3>
+<h3 align="center">🚀 Passionate Computer Science Engineering Student, Exploring Cutting-Edge Technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind1000&label=Profile%20views&color=0e75b6&style=flat" alt="aravind1000" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aravind30052003@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0](https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0)
+- 📄 Know about my experiences [here](https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0)
 
 - ⚡ Fun fact **Eat Code Sleep Repeat**
 
