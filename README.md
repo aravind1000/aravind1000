@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences [here](https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0)
 
-- ⚡ Fun fact **Eat Code Sleep Repeat**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aravind-a-48a387201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravind-a-48a387201" height="30" width="40" /></a>
