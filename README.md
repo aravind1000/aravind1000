@@ -4,7 +4,6 @@
 <br>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravind1000&label=Profile%20views&color=0e75b6&style=flat" alt="aravind1000" /> </p>
 
 - 🌱 I’m currently learning **Gen AI**
 
@@ -22,6 +21,3 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aravind1000&theme=radical&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aravind1000&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=aravind1000&icon=5&color=1)](https://visitcount.itsvg.in)
