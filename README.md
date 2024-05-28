@@ -5,8 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <br>
 
-- 🌱 I’m currently learning **Gen AI**
-
 - 💬 Ask me about **Java, Computer networks, Operating system, Data structures and Algorithms, MERN Stack**
 
 - 📫 Reach me <a href="mailto:aravind30052003@gmail.com" target="_blank">here</a>
