@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 <br>
 
-- 💬 Ask me about **Java, DBMS, Computer networks, Operating system,<br> Data structures and Algorithms, MERN Stack**
+- 💬 Ask me about **Java, DBMS, Computer networks,<br>Operating system, Data structures and Algorithms, MERN Stack**
 
 - 📫 Reach me <a href="mailto:aravind30052003@gmail.com" target="_blank">here</a>
 
