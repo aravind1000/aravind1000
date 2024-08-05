@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Computer Science Engineering Student, Exploring Cutting-Edge Technologies 🌐</h3>
 <h4 align="center">Machine Learning Enthusiast | Problem Solver | Tech Sleuth | Adaptive Learner</h4>
 <br>
-<img align="right" alt="Coding" height="350 width="350" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
+<img align="right" alt="Coding" height="300 width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 <br>
 
 - 💬 Ask me about **Java, DBMS, Computer networks,<br>Operating system, Data structures and Algorithms, MERN Stack**
