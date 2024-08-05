@@ -2,14 +2,14 @@
 <h3 align="center">🚀 Passionate Computer Science Engineering Student, Exploring Cutting-Edge Technologies 🌐</h3>
 <h4 align="center">Machine Learning Enthusiast | Problem Solver | Tech Sleuth | Adaptive Learner</h4>
 <br>
-<img align="right" alt="Coding" height="300 width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
+<img align="right" alt="Coding"  width="400" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 <br>
 
 - 💬 Ask me about **Java, DBMS, Computer networks,<br>Operating system, Data structures and Algorithms, MERN Stack**
 
 - 📫 Reach me <a href="mailto:aravind30052003@gmail.com" target="_blank">here</a>
 
-- 📄 Know about my experiences <a href="https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0" target="_blank">here</a><br><br><br><br><br><br><br>
+- 📄 Know about my experiences <a href="https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0" target="_blank">here</a><br><br><br><br><br><br><br><br>
 
 # 💻 Tech Stacks:
 <p align="center">
