@@ -11,16 +11,6 @@
 
 - 📄 Know about my experiences <a href="https://www.dropbox.com/scl/fi/w372n9mwq30sitejmizx5/Aravind-A-M_Tech-CSE.pdf?rlkey=2lr47i8ooglz8hfvs6iin4u1h&st=3o9yo2fg&dl=0" target="_blank">here</a><br><br><br><br><br><br>
 
-## 🌐 Let's Connect:
-<p align="center">
-  <a href="https://linkedin.com/in/aravind-a-48a387201" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://stackoverflow.com/users/15557382" target="_blank">
-    <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</p>
-
 # 💻 Tech Stacks:
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
