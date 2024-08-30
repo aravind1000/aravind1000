@@ -1,31 +1,32 @@
-<h1 align="center">Hi 👋, I'm Aravind</h1>
-<h3 align="center">🚀 Passionate Computer Science Engineering Student, Exploring Cutting-Edge Technologies 🌐</h3>
-<h4 align="center">Machine Learning Enthusiast | Problem Solver | Tech Sleuth | Adaptive Learner</h4><br>
+<table width="100%">
+  <tr>
+    <td width="70%">
+      <h1 align="center">Hi 👋, I'm Aravind</h1>
+      <h3 align="center">🚀 Passionate CSE Student | Exploring Cutting-Edge Technology 🌐</h3>
+      <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Tech+Sleuth;Adaptive+Learner&color=blue" alt="Typing SVG" />
+</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://media.licdn.com/dms/image/D4E12AQGWZAOnLDRaQw/article-cover_image-shrink_600_2000/0/1656679844338?e=2147483647&v=beta&t=LXuiCyZghSphTvRRmE7VHke8tY9dUz1o6NTErlbbItQ" alt="Tech GIF" width="400"/>
+    </td>
+  </tr>
+</table>
 
-- 💬 Ask me about **Java, DBMS, Computer networks,<br>Operating system, Data structures and Algorithms, MERN Stack**
+- 💬 **Ask me about:** Java, DBMS, Computer Networks, Operating Systems, Data Structures and Algorithms, MERN Stack.
 
-- 📫 Reach me <a href="mailto:aravind30052003@gmail.com" target="_blank">here</a>
+- 📫 **Reach me ->** [here](mailto:aravind30052003@gmail.com)
 
-- 📄 Know about my experiences <a href="https://drive.google.com/uc?export=download&id=10B9dKJY-Xh0Dv_jTz4GpyjCuJjY5kChp" target="_blank">here</a><br><br>
+- 📄 **Check out my experiences ->** [Download CV](https://drive.google.com/uc?export=download&id=10B9dKJY-Xh0Dv_jTz4GpyjCuJjY5kChp)<br><br>
 
 # 💻 Tech Stacks:
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/><br>
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT"/><br>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,py,express,nodejs,react,mongodb,mysql,firebase,vercel,git,figma,canva&perline=7" alt="Tech Stack" />
+</p>
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aravind1000&show_icons=true&theme=radical" alt="Aravind's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aravind1000&theme=radical" alt="Aravind's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind1000&layout=compact&theme=radical" alt="Top Languages" />
 </p>
