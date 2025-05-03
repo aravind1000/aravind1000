@@ -2,7 +2,7 @@
   <tr>
     <td width="70%">
       <h1 align="center">Hi 👋, I'm Aravind</h1>
-      <h3 align="center">🚀 Passionate CSE Student | Exploring Cutting-Edge Technology 🌐</h3>
+      <h3 align="center">🚀 Exploring Cutting-Edge Technology 🌐</h3>
       <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Problem+Solver;Tech+Explorer&color=blue" alt="Typing SVG" />
 </p>
