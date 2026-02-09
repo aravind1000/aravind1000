@@ -1,0 +1,133 @@
+<svg width="600" height="360" viewBox="0 0 600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+      }
+      
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;
+      }
+      
+      .bubble {
+        fill: #f8f8f8;
+        stroke: #e5e5e5;
+        stroke-width: 0.5;
+      }
+      
+      text {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+        fill: #0d0d0d;
+        font-style: normal;
+      }
+      
+      .msg-title {
+        font-size: 15px;
+        font-weight: 600;
+        letter-spacing: -0.2px;
+      }
+      
+      .tag-label {
+        font-size: 10px;
+        font-weight: 700;
+        letter-spacing: 0px;
+      }
+      
+      .tag-content {
+        font-size: 11px;
+        font-weight: 400;
+        letter-spacing: -0.1px;
+        fill: #555;
+      }
+      
+      .dot {
+        fill: #b3b3b3;
+      }
+      
+      /* Colors */
+      .color-blue { fill: #2563eb; }
+      .color-red { fill: #dc2626; }
+      .color-orange { fill: #ea580c; }
+      
+      /* Animations */
+      .msg-1 { animation: fadeInSlide 0.4s ease-out forwards; opacity: 0; animation-delay: 0.2s; }
+      .msg-2 { animation: fadeInSlide 0.4s ease-out forwards; opacity: 0; animation-delay: 1.6s; }
+      .msg-3 { animation: fadeInSlide 0.4s ease-out forwards; opacity: 0; animation-delay: 2.8s; }
+      
+      .typing-show-1 { animation: fadeInSlide 0.3s ease-out forwards; opacity: 0; animation-delay: 0.8s; }
+      .typing-show-2 { animation: fadeInSlide 0.3s ease-out forwards; opacity: 0; animation-delay: 2.2s; }
+      
+      .typing-hide-1 { animation: fadeOut 0.3s ease-out forwards; animation-delay: 1.2s; }
+      .typing-hide-2 { animation: fadeOut 0.3s ease-out forwards; animation-delay: 2.6s; }
+      
+      @keyframes fadeInSlide {
+        from {
+          opacity: 0;
+          transform: translateY(6px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      
+      @keyframes fadeOut {
+        to {
+          opacity: 0;
+        }
+      }
+      
+      .dot-pulse {
+        animation: dotPulse 1.2s infinite;
+      }
+      
+      .dot-pulse:nth-child(1) { animation-delay: 0s; }
+      .dot-pulse:nth-child(2) { animation-delay: 0.15s; }
+      .dot-pulse:nth-child(3) { animation-delay: 0.3s; }
+      
+      @keyframes dotPulse {
+        0%, 70%, 100% { opacity: 0.2; }
+        35% { opacity: 1; }
+      }
+      
+      @media (prefers-color-scheme: dark) {
+        .bubble {
+          fill: #1e1e1e;
+          stroke: #333;
+        }
+        text { fill: #e8e8e8; }
+        .tag-content { fill: #aaa; }
+      }
+    </style>
+  </defs>
+
+  <!-- Message 1: Greeting -->
+  <g class="msg-1">
+    <rect x="14" y="14" width="350" height="52" rx="14" class="bubble" />
+    <text x="26" y="47" class="msg-title">hi there 👋 i'm excited to have you at my gitHub!</text>
+  </g>
+
+  <!-- Typing Indicator 1 -->
+  <g class="typing-show-1 typing-hide-1">
+    <rect x="14" y="78" width="88" height="48" rx="14" class="bubble" />
+    <circle cx="30" cy="106" r="4" class="dot dot-pulse" />
+    <circle cx="50" cy="106" r="4" class="dot dot-pulse" />
+    <circle cx="70" cy="106" r="4" class="dot dot-pulse" />
+  </g>
+
+  <!-- Message 2: Caption -->
+  <g class="msg-2">
+    <rect x="14" y="78" width="320" height="52" rx="14" class="bubble" />
+    <text x="26" y="111" class="msg-title">i break systems. research flaws. build. share.</text>
+  </g>
+
+  <!-- Typing Indicator 2 -->
+  <g class="typing-show-2 typing-hide-2">
+    <rect x="14" y="142" width="88" height="48" rx="14" class="bubble" />
+    <circle cx="30" cy="170" r="4" class="dot dot-pulse" />
+    <circle cx="50" cy="170" r="4" class="dot dot-pulse" />
+    <circle cx="70" cy="170" r="4" class="dot dot-pulse" />
+  </g>
+
+</svg>
