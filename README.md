@@ -12,9 +12,6 @@
 ```
 
 `SOFTWARE DEVELOPMENT ENGINEER · ORACLE, INDIA`
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Building+AI-powered+enterprise+systems+%E2%9A%A1;RAG+%C2%B7+Backend+%C2%B7+Cloud+%C2%B7+System+Design;Fault-tolerant.+Production-grade.;SDE+%40+Oracle+%7C+OCP+Java+SE+21+Certified)](https://git.io/typing-svg)
-
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://linkedin.com/in/aravind-a-48a387201)
@@ -32,7 +29,7 @@
 
 ```ts
 const aravind = {
-  role        : "Software Development Engineer @ Oracle",
+  role        : "Software Development Engineer at Oracle",
   base        : "Hyderabad, India 🇮🇳",
   education   : "M.Tech in Computer Science · SKCET · GPA 8.1",
   focus       : ["AI/RAG Systems", "Backend Engineering", "Full-Stack Web Dev"],
@@ -48,18 +45,24 @@ const aravind = {
 ### `// experience`
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  Oracle  ·  Software Development Engineer  ·  Jan 2025–Present  │
-│  Hyderabad, Telangana                                           │
-├─────────────────────────────────────────────────────────────────┤
-│  → Developed & integrated an AI-powered RAG chatbot             │
-│    to enhance enterprise workflows (FlexOps)                    │
-│  → Contributed to Oracle NMS, OMA, and FlexOps applications     │
-│  → Engineered automation scripts & backend services             │
-│    using Python and JavaScript                                  │
-│  → Improved system performance via SQL tuning &                 │
-│    optimized data handling                                      │
-└─────────────────────────────────────────────────────────────────┘
+Oracle, Software Development Engineer                                                Jan 2025–Present  
+Hyderabad, Telangana                              
+
+● Implemented Spring Data JPA for seamless data persistence across Oracle databases, 
+reducing data access latency by 30%.  
+● Developed and deployed an AI-powered RAG chatbot for the FlexOps application, 
+reducing customer support ticket volume by 40% through intelligent in-product guidance. 
+● Improved system performance across Oracle NMS, OMA, and FlexOps via 
+SQL tuning and optimized data handling, reducing average query response time by 35%. 
+● Integrated FlexOps REST APIs with a vector database (Pinecone) and LLM pipeline (OpenAI)
+to deliver real-time, context-aware enterprise support interactions. 
+● Developed and maintained CI/CD pipelines using Jenkins, automating the deployment process 
+to improve release efficiency by 50% and reduce errors.  
+● Automated critical system tasks such as environment status reporting, certificate management, 
+and monitoring of Oracle recovery areas, increasing operational efficiency by 60% and ensuring 
+system reliability using Python and Shell Scripting.  
+● Worked with Oracle Cloud Infrastructure technologies to manage and optimize networking, storage,
+and compute instances, enhancing infrastructure performance and scalability in cloud environments.                                       
 ```
 
 ---
@@ -159,41 +162,10 @@ const aravind = {
 
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  🏆  Oracle Certified Professional Java SE 21 Developer  (2026)  │
-│  ☁️  Oracle Cloud Infrastructure AI Foundations Associate (2025)  │
+  🏆  Oracle Certified Professional Java SE 21 Developer
+  🏆  MySQL 8.0 Database Developer Oracle Certified Professional  
+  ☁️  Oracle Cloud Infrastructure AI Foundations Associate 
 └──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-### `// metrics`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aravind1000&show_icons=true&hide_border=true&border_radius=8&title_color=a855f7&icon_color=a855f7&text_color=a1a1aa&bg_color=09090b&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Stats" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aravind1000&layout=compact&hide_border=true&border_radius=8&title_color=a855f7&text_color=a1a1aa&bg_color=09090b&langs_count=5" height="160"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=aravind1000&hide_border=true&border_radius=8&background=09090b&ring=a855f7&fire=c084fc&currStreakNum=fafafa&sideNums=a1a1aa&currStreakLabel=a855f7&sideLabels=71717a&dates=52525b" width="54%"/>
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aravind1000&bg_color=09090b&color=a855f7&line=7c3aed&point=c084fc&hide_border=true&radius=6" width="96%"/>
-</div>
-
----
-
-### `// now`
-
-```
-→  Contributing to Oracle NMS, OMA, FlexOps applications
-→  Exploring: AI/ML · vector search · LLM orchestration
-→  2026: open-source contributions in AI/backend infra
 ```
 
 ---
@@ -209,7 +181,3 @@ const aravind = {
 </div>
 
 ---
-
-<div align="center">
-  <sub><code>— build quietly · ship reliably —</code></sub>
-</div>
